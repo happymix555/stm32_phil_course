@@ -1185,7 +1185,7 @@
     (in_bom yes) (on_board yes)
     (uuid 6a6670cf-0ee9-4d1f-acef-5a1df8d19cc1)
     (property "Reference" "Y?" (id 0) (at 96.52 74.93 0))
-    (property "Value" "16MHz" (id 1) (at 97.79 85.09 0))
+    (property "Value" "16MHz_abm8" (id 1) (at 100.33 85.09 0))
     (property "Footprint" "" (id 2) (at 93.98 80.01 0)
       (effects (font (size 1.27 1.27)) hide)
     )
@@ -1619,7 +1619,7 @@
       (reference "U?") (unit 1) (value "STM32F103C8T6") (footprint "Package_QFP:LQFP-48_7x7mm_P0.5mm")
     )
     (path "/6a6670cf-0ee9-4d1f-acef-5a1df8d19cc1"
-      (reference "Y?") (unit 1) (value "16MHz") (footprint "")
+      (reference "Y?") (unit 1) (value "16MHz_abm8") (footprint "")
     )
   )
 )
